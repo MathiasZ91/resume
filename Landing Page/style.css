@@ -1,0 +1,35 @@
+header {
+  border: 2px solid tomato;
+  font-style: italic;
+  /* font weight didnt work?=?=? */
+  font-weight: 980;
+  color: dodgerblue;
+}
+
+
+body {
+    
+    justify-content: 
+    align-items: center; 
+    font-family: 'Segoe UI', Tahoma, Geneva, sans-serif;
+    background-color:#F0F0F0 ;
+}
+
+
+.about-us,
+.adopt-us {
+    text-align: center; 
+    margin: 2rem auto;
+    max-width: 600px; 
+}
+
+.about-us p {
+    margin: 1rem 0;
+
+
+}
+
+
+.adopt-us li {
+    margin: 0.5rem 0;
+}
